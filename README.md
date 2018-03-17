@@ -1,0 +1,2 @@
+# JsForofStatement
+for – of文
